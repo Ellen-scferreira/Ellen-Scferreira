@@ -24,7 +24,7 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ellenscf-estrela&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ellen-Scferreira&show_icons=true&theme=tokyonight)
 
 ---
 
